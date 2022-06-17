@@ -14,31 +14,31 @@ function Home(){
                     link="/create_account/"
                     title="Create account"
                     text="Join us today!"
-                    image={(<img src="images/create_account.png" className="img-fluid" alt="Responsive image"/>)}
+                    image={(<img src="create_account.png" className="img-fluid" alt="Responsive image"/>)}
                 />
                 <HomeCard
                     link="/login/"
                     title="Login"
                     text="Check out your account"
-                    image={(<img src="images/login.png" className="img-fluid" alt="Responsive image"/>)}
+                    image={(<img src="login.png" className="img-fluid" alt="Responsive image"/>)}
                 />
                 <HomeCard
                     link="/deposit/"
                     title="Deposit"
                     text="Deposit your money"
-                    image={(<img src="images/deposit.png" className="img-fluid" alt="Responsive image"/>)}
+                    image={(<img src="deposit.png" className="img-fluid" alt="Responsive image"/>)}
                 />
                 <HomeCard
                     link="/withdraw/"
                     title="Withdraw"
                     text="Withdraw your money"
-                    image={(<img src="images/withdraw.png" className="img-fluid" alt="Responsive image"/>)}
+                    image={(<img src="withdraw.png" className="img-fluid" alt="Responsive image"/>)}
                 />
                 <HomeCard
                     link="/all_data/"
                     title="All data"
                     text="Account information"
-                    image={(<img src="images/bank.png" className="img-fluid" alt="Responsive image"/>)}
+                    image={(<img src="bank.png" className="img-fluid" alt="Responsive image"/>)}
                 />
                     
             </div>
