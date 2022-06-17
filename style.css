@@ -1,0 +1,19 @@
+.outer {
+    margin-left: 0px;
+    margin-right: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 20vh;
+}
+
+.main-container{
+    height: 80vh;
+}
+
+.navbar {
+    padding-left: 20px;
+}
+
+.nav-link {
+    color:white;
+}
